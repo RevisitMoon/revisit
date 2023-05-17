@@ -277,3 +277,9 @@ undefined
 dist
 .vscode
 **/__pycache__/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
